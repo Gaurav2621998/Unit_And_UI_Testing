@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButtonApp</string>
+    <string name="prompt">Choose Country</string>
+    <string-array name="country_name">
+        <item>India</item>
+        <item>China</item>
+        <item>Australia</item>
+        <item>EngLand</item>
+    </string-array>
+</resources>
